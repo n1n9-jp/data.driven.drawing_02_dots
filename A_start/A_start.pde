@@ -4,7 +4,7 @@ float xpos = width/2;
 float ypos = height/2;
 background(255);
 rectMode(CENTER);
-fill(122);
+fill(c);
 rect(xpos, ypos, 20, 10);
 ellipse(xpos-6, ypos+8, 4, 4);
 ellipse(xpos+6, ypos+8, 4, 4);
